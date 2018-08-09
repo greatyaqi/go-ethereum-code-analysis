@@ -35,7 +35,7 @@ Trie树的基本性质可以归纳为：
 |6c0a8f740d16y03G|43    |
 |6c0a8f740d16vcc1|48    |
 
-## Merkle树 (参考 http://blog.csdn.net/wo541075754/article/details/54632929）
+## Merkle树 (参考 http://blog.csdn.net/wo541075754/article/details/54632929/)
 Merkle Tree，通常也被称作Hash Tree，顾名思义，就是存储hash值的一棵树。Merkle树的叶子是数据块(例如，文件或者文件的集合)的hash值。非叶节点是其对应子节点串联字符串的hash。
 
 ![image](picture/trie_3.png)
